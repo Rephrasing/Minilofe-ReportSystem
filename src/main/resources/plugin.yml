@@ -1,0 +1,9 @@
+name: MinilofeReports
+main: mc.minilofe.moderation.reports.MinilofeReportsPlugin
+version: 0.0.1
+author: Rephrasing
+commands:
+  report:
+    permission: reports.report
+  playerReports:
+    permission: reports.mod

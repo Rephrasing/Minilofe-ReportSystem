@@ -1,0 +1,7 @@
+# all command-cooldowns are in seconds
+# setting a cooldown to -1 will disable it
+command-cooldowns:
+  report: 5
+  player-reports: 5
+
+
